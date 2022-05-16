@@ -1,0 +1,21 @@
+body {
+    background-color: #353535;
+}
+div {
+    margin: auto;
+    width: 50%;
+    background-color:white; 
+    height:100%; 
+    padding: 10px; 
+}
+h1 {
+    color: #303030; 
+    text-shadow: 1px 1px 2px #505050; 
+}
+h2 {
+    font-variant: small-caps;
+}
+.noticia {
+    column-count: 3; 
+    column-gap: 20px;
+}
